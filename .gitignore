@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Environment & Credentials (NEVER commit secrets!)
+.env
+session.json
+
+# Browser Sessions & Cache (contains sensitive login cookies)
+browser_session/
+browser_profile/
+
+# Outputs & Logs (contains personal follower data)
+output/
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
