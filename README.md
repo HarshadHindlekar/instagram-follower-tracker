@@ -1,5 +1,9 @@
 # 📸 Instagram Follower Tracker
 
+<p align="center">
+  <img src="assets/linkedin_banner.jpg" alt="Instagram Follower Tracker Banner" width="100%">
+</p>
+
 An automated Python Playwright script to compare your Instagram followers and following lists and identify accounts that you follow but do not follow you back.
 
 Built using the same persistent session and stealth architecture used in production browser automations.
